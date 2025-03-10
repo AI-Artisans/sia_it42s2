@@ -12,19 +12,20 @@ This repository is your digital playground, containing:
 Everything is neatly tucked away using a meticulous directory structure because...we’re professionals like that:
 
 ### Directory Structure
-📂 Main 
-📂 Tags 
-📂 Branches 
-├── [Your Name Here]/ 
-    ├── LAB-[LaboratoryDate: yyyymmdd]/ 
-    └── final-project/
-
+📂 Branches<br>
+&nbsp;&nbsp;&nbsp;|- 📂 Main<br>
+&nbsp;&nbsp;&nbsp;|- 📂 IT42S2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 [Name in FNMILastName]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 LAB-[LaboratoryDate: yyyymmdd]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 final-project<br>
+📂 Tags<br>
 
 ### Example:
-📂 Branches 
-├── JTIDelaCruz/ 
-    ├── LAB-20250308/ 
-    └── final-project/
+📂 Branches<br>
+&nbsp;&nbsp;&nbsp;|- 📂 IT42S2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 JTIDelaCruz<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 LAB-20250308<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 final-project<br>
 
 ### Naming Conventions:
 1. Each student must create their own GitHub branch using the naming convention:

@@ -1,0 +1,59 @@
+[33mcommit 8a5fc015fc821ce85de7386b86d45036901462e2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 31f12ec eab7cc0
+Author: Bons28 <nathmarquez28@gmail.com>
+Date:   Sat Mar 15 10:24:38 2025 +0800
+
+     Creating a new folder to store all my laboratory exercise submissions.
+
+[33mcommit eab7cc016d3386023f27597b5d6974b165ba7cc8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c1cdf62 f677263
+Author: orphiano-0 <gab.orphiano@gmail.com>
+Date:   Sat Mar 15 10:20:46 2025 +0800
+
+    Changes for me
+
+[33mcommit 31f12ec58d99215fe72d6068658b0f61469cf1ad[m
+Author: Bons28 <nathmarquez28@gmail.com>
+Date:   Sat Mar 15 10:14:28 2025 +0800
+
+     Creating a new folder to store all my laboratory exercise submissions.
+
+[33mcommit f67726318d3d602696d79a7ecb735b99fa1bbc18[m
+Author: jhdcruz <jhdcruz@proton.me>
+Date:   Sat Mar 15 10:12:30 2025 +0800
+
+    Creating a new folder to store all my laboratory exercise submissions.
+
+[33mcommit c1cdf62df84fa75e4fa3a528a4e210ae6e331657[m
+Author: orphiano-0 <gab.orphiano@gmail.com>
+Date:   Sat Mar 15 10:10:49 2025 +0800
+
+    Creating a new folder to store all my laboratory exercise submissions.
+
+[33mcommit bf15fceb1eb6419a86f96d99ee247a22a0e26eb8[m
+Author: jrdkho <32198897+jrdkho@users.noreply.github.com>
+Date:   Sat Mar 15 09:48:31 2025 +0800
+
+    Adding new file.
+
+[33mcommit faaed97647ee81f3ebe24c76f10d97a17fb63379[m
+Author: jrdkho <32198897+jrdkho@users.noreply.github.com>
+Date:   Mon Mar 10 21:14:36 2025 +0800
+
+    Update README.md
+    
+    Adjusting the final format for the directory structure.
+
+[33mcommit 5a2bf0d8af384c2d16a4a9cbf24038f148087467[m
+Author: jrdkho <32198897+jrdkho@users.noreply.github.com>
+Date:   Sat Mar 8 21:48:43 2025 +0800
+
+    Update README.md
+    
+    Initiating the README.md file for this project
+
+[33mcommit 4686b194060877ee05f08b3bb8c9b6e0ede291eb[m
+Author: jrdkho <32198897+jrdkho@users.noreply.github.com>
+Date:   Sat Mar 8 21:26:24 2025 +0800
+
+    Initial commit
